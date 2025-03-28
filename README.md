@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently trying to get into **Ai/ML**
 
-- 💬 Ask me about **react,express**
+- 💬 Ask me about **react, express, python**
 
 - 📫 How to reach me **bkalyan.eth@gmail.com**
 
