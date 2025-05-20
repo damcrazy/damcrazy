@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalyan</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently trying to get into **Ai/ML**
+- 🌱 I’m working on AutoVuln.in
 
 - 💬 Ask me about **react, express, python**
 
